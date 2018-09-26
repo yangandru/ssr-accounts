@@ -5,6 +5,9 @@
 ##### 反向代理
 ######  [Google](http://202.182.98.125:8888/search?q=425事件) - [YouTube](https://nogfw.the-youtube.win) - [维基百科](http://202.182.98.125:8100/wiki/喬高-麥塔斯調查報告) - [真相期刊](http://202.182.98.125:8300/display.aspx?category_id=3&zhuanti_id=2) - [大纪元新闻网](http://202.182.98.125:10080) - [新唐人电视台](http://202.182.98.125:8000) - [希望之声](http://202.182.98.125:8200) - [神韵艺术团](http://202.182.98.125:8000/xtr/gb/prog673.html) - [我的博客](http://202.182.98.125:10000/)<br/> <br/> [BBC中文网](http://202.182.98.125:9100/zhongwen/simp) - [DW(德国之声)](http://202.182.98.125:9200/zh/在线报导/s-9058?&zhongwen=simp) - [华尔街日报](http://202.182.98.125:9300) - [纽约时报中文网](http://202.182.98.125:9400) - [路透中文网](http://202.182.98.125:9500/) - [法国国际广播电台](http://202.182.98.125:9600/) - [美国之音](http://202.182.98.125:9700/) 
 
+##### 精彩视频
+###### [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md) - [《时事小品》](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md) - [《传奇时代》](http://202.182.98.125:10000/videos/legend/) - [《风雨天地行》](http://202.182.98.125:10000/videos/fytdx/)
+
 ##### SS/SSR 账号（09-25 14:20 更新）
 |||
 |-|-|
