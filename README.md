@@ -3,10 +3,10 @@
 ##### 本项目已被五毛盯上，IP地址会被不定期封锁，但服务器会自动检查并重建，大概需要3分钟。请下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md) 作为备用翻墙工具。
 
 ##### 反向代理
-######  [Google](http://104.207.148.46:8888/search?q=425事件) - [YouTube](https://nogfw.the-youtube.win) - [维基百科](http://104.207.148.46:8100/wiki/喬高-麥塔斯調查報告) - [真相期刊](http://104.207.148.46:8300/display.aspx?category_id=3&zhuanti_id=2) - [大纪元新闻网](http://104.207.148.46:10080) - [新唐人电视台](http://104.207.148.46:8000) - [希望之声](http://104.207.148.46:8200) - [神韵艺术团](http://104.207.148.46:8000/xtr/gb/prog673.html) - [我的博客](http://104.207.148.46:10000/)<br/> <br/> [BBC中文网](http://104.207.148.46:9100/zhongwen/simp) - [DW(德国之声)](http://104.207.148.46:9200/zh/在线报导/s-9058?&zhongwen=simp) - [华尔街日报](http://104.207.148.46:9300) - [纽约时报中文网](http://104.207.148.46:9400) - [路透中文网](http://104.207.148.46:9500/) - [法国国际广播电台](http://104.207.148.46:9600/) - [美国之音](http://104.207.148.46:9700/) 
+######  [Google](http://45.77.184.84:8888/search?q=425事件) - [YouTube](https://nogfw.the-youtube.win) - [维基百科](http://45.77.184.84:8100/wiki/喬高-麥塔斯調查報告) - [真相期刊](http://45.77.184.84:8300/display.aspx?category_id=3&zhuanti_id=2) - [大纪元新闻网](http://45.77.184.84:10080) - [新唐人电视台](http://45.77.184.84:8000) - [希望之声](http://45.77.184.84:8200) - [神韵艺术团](http://45.77.184.84:8000/xtr/gb/prog673.html) - [我的博客](http://45.77.184.84:10000/)<br/> <br/> [BBC中文网](http://45.77.184.84:9100/zhongwen/simp) - [DW(德国之声)](http://45.77.184.84:9200/zh/在线报导/s-9058?&zhongwen=simp) - [华尔街日报](http://45.77.184.84:9300) - [纽约时报中文网](http://45.77.184.84:9400) - [路透中文网](http://45.77.184.84:9500/) - [法国国际广播电台](http://45.77.184.84:9600/) - [美国之音](http://45.77.184.84:9700/) 
 
 ##### 精彩视频
-###### [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md) - [《时事小品》](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md) - [《传奇时代》](http://104.207.148.46:10000/videos/legend/) - [《风雨天地行》](http://104.207.148.46:10000/videos/fytdx/)
+###### [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md) - [《时事小品》](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md) - [《传奇时代》](http://45.77.184.84:10000/videos/legend/) - [《风雨天地行》](http://45.77.184.84:10000/videos/fytdx/)
 
 ##### SS/SSR 账号（09-27 10:40 更新）
 |||
