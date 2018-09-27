@@ -8,7 +8,7 @@
 ##### 精彩视频
 ###### [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md) - [《时事小品》](https://github.com/gfw-breaker/ntdtv-comedy/blob/master/README.md) - [《传奇时代》](http://45.77.188.178:10000/videos/legend/) - [《风雨天地行》](http://45.77.188.178:10000/videos/fytdx/)
 
-##### SS/SSR 账号（09-25 14:20 更新）
+##### SS/SSR 账号（09-27 10:40 更新）
 |||
 |-|-|
 |IP地址|`149.28.200.228`|
