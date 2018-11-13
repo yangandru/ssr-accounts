@@ -3,15 +3,15 @@
 ##### 本项目已被五毛盯上，IP地址会被不定期封锁，但服务器会自动检查并重建，大概需要3分钟。请下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?a01) 作为备用翻墙工具。
 
 ##### 反向代理
-######  [Google](http://45.32.57.131:8888/search?q=425事件) - [YouTube](https://nogfw.the-youtube.win) - [维基百科](http://45.32.57.131:8100/wiki/喬高-麥塔斯調查報告) - [真相期刊](http://45.32.57.131:8300/display.aspx?category_id=3&zhuanti_id=2) - [大纪元新闻网](http://45.32.57.131:10080) - [新唐人电视台](http://45.32.57.131:8000) - [希望之声](http://45.32.57.131:8200) - [神韵艺术团](http://45.32.57.131:8000/xtr/gb/prog673.html) - [我的博客](http://45.32.57.131:10000/)<br/> <br/> [BBC中文网](http://45.32.57.131:9100/zhongwen/simp) - [DW(德国之声)](http://45.32.57.131:9200/zh/在线报导/s-9058?&zhongwen=simp) - [华尔街日报](http://45.32.57.131:9300) - [纽约时报中文网](http://45.32.57.131:9400) - [路透中文网](http://45.32.57.131:9500/) - [法国国际广播电台](http://45.32.57.131:9600/) - [美国之音](http://45.32.57.131:9700/) 
+######  [Google](http://167.179.78.91:8888/search?q=425事件) - [YouTube](https://nogfw.the-youtube.win) - [维基百科](http://167.179.78.91:8100/wiki/喬高-麥塔斯調查報告) - [真相期刊](http://167.179.78.91:8300/display.aspx?category_id=3&zhuanti_id=2) - [大纪元新闻网](http://167.179.78.91:10080) - [新唐人电视台](http://167.179.78.91:8000) - [希望之声](http://167.179.78.91:8200) - [神韵艺术团](http://167.179.78.91:8000/xtr/gb/prog673.html) - [我的博客](http://167.179.78.91:10000/)<br/> <br/> [BBC中文网](http://167.179.78.91:9100/zhongwen/simp) - [DW(德国之声)](http://167.179.78.91:9200/zh/在线报导/s-9058?&zhongwen=simp) - [华尔街日报](http://167.179.78.91:9300) - [纽约时报中文网](http://167.179.78.91:9400) - [路透中文网](http://167.179.78.91:9500/) - [法国国际广播电台](http://167.179.78.91:9600/) - [美国之音](http://167.179.78.91:9700/) 
 
 ##### 精彩视频
-###### [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md?a01) - [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?a01) - [《历史上的今天》](https://github.com/gfw-breaker/today-in-history/blob/master/README.md?a01) - [《传奇时代》](http://45.32.57.131:10000/videos/legend/) - [《风雨天地行》](http://45.32.57.131:10000/videos/fytdx/) - [《九评共产党》](http://45.32.57.131:10000/videos/jiuping/) - [《漫谈党文化》](http://45.32.57.131:10000/videos/mtdwh/) 
+###### [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md?a01) - [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?a01) - [《历史上的今天》](https://github.com/gfw-breaker/today-in-history/blob/master/README.md?a01) - [《传奇时代》](http://167.179.78.91:10000/videos/legend/) - [《风雨天地行》](http://167.179.78.91:10000/videos/fytdx/) - [《九评共产党》](http://167.179.78.91:10000/videos/jiuping/) - [《漫谈党文化》](http://167.179.78.91:10000/videos/mtdwh/) 
 
 ##### SS/SSR 账号（10-09 12:17 更新）
 |||
 |-|-|
-|IP地址|`45.32.57.131`|
+|IP地址|`167.179.78.91`|
 |端口号|`443` |
 |密码|`FaLunDaFaHao@513`|  
 |加密|`aes-256-cfb`|
