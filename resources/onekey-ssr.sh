@@ -23,7 +23,7 @@ ip_addr=$(ifconfig | grep "inet addr" | sed -n 1p | cut -d':' -f2 | cut -d' ' -f
 
 cat > $config_file <<EOF
 {
-    "server": "$ip_addr",
+    "server": "0.0.0.0",
     "server_ipv6": "::",
     "server_port": $ss_port,
     "local_address": "127.0.0.1",
