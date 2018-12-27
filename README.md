@@ -8,10 +8,10 @@
 ##### 精彩视频
 ###### [《传奇时代》](http://149.28.210.149:10000/videos/legend/) - [《风雨天地行》](http://149.28.210.149:10000/videos/fytdx/) - [《九评共产党》](http://149.28.210.149:10000/videos/jiuping/) - [《漫谈党文化》](http://149.28.210.149:10000/videos/mtdwh/) - [《百年红祸》](http://149.28.210.149:10000/videos/bnhh/) - [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md?a01) - [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?a01) - [《历史上的今天》](https://github.com/gfw-breaker/today-in-history/blob/master/README.md?a01)
  
-##### SS/SSR 账号（12-12 12:17 更新）
+##### SS/SSR 账号（12-27 20:55 更新）
 |||
 |-|-|
-|IP地址|`149.28.210.149`|
+|IP地址|`108.160.141.129`|
 |端口号|`443` |
 |密码|`FaLunDaFaHao@513`|  
 |加密|`aes-256-cfb`|
