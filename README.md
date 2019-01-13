@@ -8,7 +8,7 @@
 ##### 精彩视频
 ###### [《传奇时代》](http://167.179.91.108:10000/videos/legend/) - [《风雨天地行》](http://167.179.91.108:10000/videos/fytdx/) - [《九评共产党》](http://167.179.91.108:10000/videos/jiuping/) - [《漫谈党文化》](http://167.179.91.108:10000/videos/mtdwh/) - [《百年红祸》](http://167.179.91.108:10000/videos/bnhh/) - [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news/blob/master/README.md?a01) - [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao/blob/master/README.md?a01) - [《历史上的今天》](https://github.com/gfw-breaker/today-in-history/blob/master/README.md?a01)
  
-##### SS/SSR 账号（0113 10:50 更新）
+##### SS/SSR 账号（01-13 22:50 更新）
 |||
 |-|-|
 |IP地址|`167.179.91.108`|
