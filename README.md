@@ -1,6 +1,6 @@
 # SS/SSR 账号 
 
-###### 本项目已被五毛盯上，IP地址会被不定期封锁，但服务器会自动检查并重建，大概需要3分钟。请下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?a01) 作为备用翻墙工具。
+##### 本项目已被五毛盯上，IP地址会被不定期封锁，但服务器会自动检查并重建，大概需要3分钟。请下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?a01) 作为备用翻墙工具。
 
 ##### 禁书推荐
 ###### [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)
