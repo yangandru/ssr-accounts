@@ -12,11 +12,11 @@
 ###### [《传奇时代》](http://45.63.95.53:10000/videos/legend/) - [《风雨天地行》](http://45.63.95.53:10000/videos/fytdx/) - [《九评共产党》](http://45.63.95.53:10000/videos/jiuping/) - [《漫谈党文化》](http://45.63.95.53:10000/videos/mtdwh/) 
 ###### [《百年红祸》](http://45.63.95.53:10000/videos/bnhh/) - [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news) - [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao) - [《历史上的今天》](https://github.com/gfw-breaker/today-in-history)
  
-##### SS/SSR 账号（03-08 17:30 更新端口号）
+##### SS/SSR 账号（03-10 09:30 更新IP地址及端口号）
 |||
 |-|-|
-|IP地址|`45.63.95.53`|
-|端口号|`8899` |
+|IP地址|`207.148.93.130`|
+|端口号|`443` |
 |密码|`FaLunDaFaHao@513`|  
 |加密|`aes-256-cfb`|
 |协议(SSR) |`auth_sha1_v4`|  
