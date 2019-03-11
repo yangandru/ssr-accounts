@@ -6,11 +6,11 @@
 ###### [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)
 
 ##### 反向代理（若被封锁，请使用 [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md?a01)）
-######  [大纪元新闻网](http://45.63.95.53:10080/) - [新唐人电视台](http://45.63.95.53:8000/) - [希望之声](http://104.238.181.90:8200) - [我的博客](http://45.63.95.53:10000/) - [Google](http://45.63.95.53:8888/search?q=425事件) - [维基百科](http://45.63.95.53:8100/wiki/喬高-麥塔斯調查報告) - [追查国际](http://104.238.181.90:10010) - [新唐人电视直播](http://45.63.95.53:)<br/> <br/> [BBC中文网](http://104.238.181.90:9100/zhongwen/simp) - [德国之声](http://104.238.181.90:9200/zh/在线报导/s-9058?&zhongwen=simp) - [华尔街日报](http://104.238.181.90:9300) - [路透中文网](http://104.238.181.90:9500/) - [法国国际广播电台](http://104.238.181.90:9600/) - [美国之音](http://104.238.181.90:9700/)  - [自由亚洲电台](http://104.238.181.90:9800/) 
+######  [大纪元新闻网](http://207.148.93.130:10080/) - [新唐人电视台](http://207.148.93.130:8000/) - [希望之声](http://104.238.181.90:8200) - [我的博客](http://207.148.93.130:10000/) - [Google](http://207.148.93.130:8888/search?q=425事件) - [维基百科](http://207.148.93.130:8100/wiki/喬高-麥塔斯調查報告) - [追查国际](http://104.238.181.90:10010) - [新唐人电视直播](http://207.148.93.130:)<br/> <br/> [BBC中文网](http://104.238.181.90:9100/zhongwen/simp) - [德国之声](http://104.238.181.90:9200/zh/在线报导/s-9058?&zhongwen=simp) - [华尔街日报](http://104.238.181.90:9300) - [路透中文网](http://104.238.181.90:9500/) - [法国国际广播电台](http://104.238.181.90:9600/) - [美国之音](http://104.238.181.90:9700/)  - [自由亚洲电台](http://104.238.181.90:9800/) 
 
 ##### 精彩视频
-###### [《传奇时代》](http://45.63.95.53:10000/videos/legend/) - [《风雨天地行》](http://45.63.95.53:10000/videos/fytdx/) - [《九评共产党》](http://45.63.95.53:10000/videos/jiuping/) - [《漫谈党文化》](http://45.63.95.53:10000/videos/mtdwh/) 
-###### [《百年红祸》](http://45.63.95.53:10000/videos/bnhh/) - [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news) - [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao) - [《历史上的今天》](https://github.com/gfw-breaker/today-in-history)
+###### [《传奇时代》](http://207.148.93.130:10000/videos/legend/) - [《风雨天地行》](http://207.148.93.130:10000/videos/fytdx/) - [《九评共产党》](http://207.148.93.130:10000/videos/jiuping/) - [《漫谈党文化》](http://207.148.93.130:10000/videos/mtdwh/) 
+###### [《百年红祸》](http://207.148.93.130:10000/videos/bnhh/) - [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news) - [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao) - [《历史上的今天》](https://github.com/gfw-breaker/today-in-history)
  
 ##### SS/SSR 账号（03-10 09:30 更新IP地址及端口号）
 |||
