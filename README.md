@@ -12,7 +12,7 @@
 ##### [法轮功真相](http://207.148.93.130:10000/videos/truth.html) &nbsp;-&nbsp; [器官活摘](http://207.148.93.130:10000/videos/res/Organs/) &nbsp;- [《九评共产党》](http://207.148.93.130:10000/videos/jiuping/) - [《漫谈党文化》](http://207.148.93.130:10000/videos/mtdwh/) - [《百年红祸》](http://207.148.93.130:10000/videos/bnhh/) 
 
 ##### 精彩视频
-###### [《文昭谈古论今》](https://github.com/gfw-breaker/wenzhao) - [《历史上的今天》](https://github.com/gfw-breaker/today-in-history) - [《中国禁闻》](https://github.com/gfw-breaker/ntdtv-news) - [《大陆新闻解读》](https://github.com/gfw-breaker/ntdtv-comedy)
+###### [《文昭谈古论今》](http://207.148.93.130/wenzhao/) - [《历史上的今天》](http://207.148.93.130/today-in-history/) - [《中国禁闻》](http://207.148.93.130/ntdtv-news/) - [《大陆新闻解读》](http://207.148.93.130/ntdtv-comedy/) - [《子弘闲谈》](http://207.148.93.130/zihongxiantan/)
  
 ##### SS/SSR 账号（03-10 09:30 更新IP地址及端口号）
 |||
