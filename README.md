@@ -2,7 +2,9 @@
 
 ##### 本项目已被五毛盯上，IP地址会被不定期封锁。在服务器不可用期间，请下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?a01) 作为备用翻墙工具。
 
-##### 免翻墙看禁闻 [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md?a01)
+##### 免翻墙看海外新闻 &nbsp; [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md?a01)
+
+##### YouTube频道推荐  [《江峰时刻》](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w) - [《文昭谈古论今》](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA) - [《天亮时分》](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw)
 
 ##### 禁书推荐  [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)
 
