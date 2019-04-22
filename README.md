@@ -4,8 +4,7 @@
 
 ##### 免翻墙看禁闻 [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md?a01)
 
-##### 禁书推荐
-###### [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)
+##### 禁书推荐  [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)
 
 ##### SS/SSR 账号（04-20 18:00 更新IP地址及端口号）
 |||
