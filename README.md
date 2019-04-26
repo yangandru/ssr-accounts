@@ -8,7 +8,7 @@
 
 ##### 禁书推荐  [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)
 
-##### SS/SSR 账号（04-20 18:00 更新IP地址及端口号）
+##### SS/SSR 账号（04-26 21:00 更新IP地址及端口号）
 |||
 |-|-|
 |IP地址|<img src='resources/ip.png'/>|
