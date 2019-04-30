@@ -32,7 +32,7 @@ cat > $config_file <<EOF
     "password": "$ss_password",
     "method": "$ss_method",
     "protocol": "$ss_protocol",
-    "protocol_param": "200",
+    "protocol_param": "",
     "obfs": "$ss_obfs",
     "obfs_param": "",
     "speed_limit_per_con": $ss_speed,
