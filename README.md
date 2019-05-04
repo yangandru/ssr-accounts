@@ -1,6 +1,6 @@
 # SS/SSR 账号 
 
-##### 本项目已被五毛盯上，IP地址会被不定期封锁。在服务器不可用期间，请下载 [一键翻墙软件](https://github.com/gfw-breaker/nogfw/blob/master/README.md?a01) 作为备用翻墙工具。
+##### 本项目已被五毛盯上，IP地址会被不定期封锁。在服务器不可用期间，请参考[手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)作为备用翻墙工具。
 
 ##### 免翻墙看海外新闻 &nbsp; [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md?a01)
 
