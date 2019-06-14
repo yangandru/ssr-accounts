@@ -12,7 +12,7 @@
 |||
 |-|-|
 |IP地址|<img src='resources/ip.png'/>|
-|端口号|`443` |
+|端口号|`23456` |
 |密码|`FaLunDaFaHao@513`|  
 |加密|`aes-256-cfb`|
 |协议(SSR) |`auth_sha1_v4`|  
