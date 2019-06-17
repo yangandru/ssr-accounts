@@ -8,15 +8,15 @@
 
 ##### 禁书推荐  [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)
 
-##### SS/SSR 账号（06-14 22:30 更新IP和端口号），[手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)（包含 Windows、iPhone、Mac、安卓）
+##### SS/SSR 账号（06-14 22:30 更新IP、端口号、协议、混淆），[手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)（包含 Windows、iPhone、Mac、安卓）
 |||
 |-|-|
 |IP地址|<img src='resources/ip.png'/>|
 |端口号|`23456` |
 |密码|`FaLunDaFaHao@513`|  
 |加密|`aes-256-cfb`|
-|协议(SSR) |`auth_sha1_v4`|  
-|混淆(SSR) |`tls1.2_ticket_auth`|  
+|协议(SSR) |`origin`|  
+|混淆(SSR) |`plain`|  
 
 ##### 授人以鱼不如授人以渔：搭建 [免费Web代理](https://github.com/no-gfw/heroku-node-proxy#--end--)；免翻墙在GitHub上看禁闻 [禁闻聚合](https://github.com/gfw-breaker/banned-news/blob/master/README.md?a01)
 
