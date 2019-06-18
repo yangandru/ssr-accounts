@@ -8,12 +8,12 @@
 
 ##### 禁书推荐  [《九评共产党》](https://github.com/gfw-breaker/9ping.md) - [《解体党文化》](https://github.com/gfw-breaker/jtdwh.md) - [《共产主义的终极目的》](https://github.com/gfw-breaker/gczydzjmd.md)
 
-##### SS/SSR 账号（06-14 22:30 更新IP、端口号、协议、混淆），[手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)（包含 Windows、iPhone、Mac、安卓）
+##### SS/SSR 账号（06-14 22:30 更新IP、端口号、密码），[手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)（包含 Windows、iPhone、Mac、安卓）
 |||
 |-|-|
 |IP地址|<img src='resources/ip.png'/>|
-|端口号|`23456` |
-|密码|`FaLunDaFaHao@513`|  
+|端口号|`12345` |
+|密码|`dongtaiwang.com`|  
 |加密|`aes-256-cfb`|
 |协议(SSR) |`origin`|  
 |混淆(SSR) |`plain`|  
