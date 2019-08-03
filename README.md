@@ -12,8 +12,8 @@
 |||
 |-|-|
 |IP地址|<img src='resources/ip2.png'/>|
-|端口号|`26782` |
-|密码|`ntdtv.com`|  
+|端口号|`45671` |
+|密码|`dongtaiwang.com`|  
 |加密|`aes-256-cfb`|
 |协议(SSR) |`origin`|  
 |混淆(SSR) |`plain`|  
