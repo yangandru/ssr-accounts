@@ -22,5 +22,5 @@
 
 ##### 无需Linux知识、无需远程登录服务器, 在VPS上一键搭建SS/SSR, 请参考 [在Vultr上自动部署Shadowsocks](https://gfw-breaker.win/vultr%e9%83%a8%e7%bd%b2ss/) 
 
-<img src='http://gfw-breaker.win/git-statistics/ssr-accounts.png' width='1px' height='1px'/>
+<img src='http://gfw-breaker.win/git-statistic/ssr-accounts.png' width='1px' height='1px'/>
 
